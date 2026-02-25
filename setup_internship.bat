@@ -13,4 +13,7 @@ start "" "D:\Studies\JHU\Arijit_Kulkarni_resume.pdf"
 :: Open the text file (will use your default text editor)
 start "" "D:\Studies\JHU\internshipStuff.txt"
 
+:: Open Excel file
+start "" "C:\Users\Arijit\Desktop\Internship Status.xlsx"
+
 exit
